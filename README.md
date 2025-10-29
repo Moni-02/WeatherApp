@@ -35,3 +35,14 @@ Create a .env file in the root folder and add your API key:
 VITE_WEATHER_API_KEY=your_api_key_here
 SUPABASE_URL=your_supabase_url
 SUPABASE_ANON_KEY=your_supabase_anon_key
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+https://github.com/Moni-02/WeatherApp/blob/main/screenshots/home.png
+
+### 🔍 Search City
+https://github.com/Moni-02/WeatherApp/blob/main/screenshots/search.png
+
+### 🌦️ Weather Details
+https://github.com/Moni-02/WeatherApp/blob/main/screenshots/weather_details.png
